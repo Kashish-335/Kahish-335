@@ -96,15 +96,15 @@ A Python-based web application security assessment project focused on identifyin
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-<div align="center">
+![GitHub Contribution Streak](https://streak-stats.demolab.com?user=Kashish-335&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kashish-335&show_icons=true&theme=tokyonight)
+### 📈 Contribution Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish-335&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kashish-335&theme=tokyo-night)
 
-</div>
 
 ---
 
