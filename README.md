@@ -105,9 +105,6 @@ A Python-based web application security assessment project focused on identifyin
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kashish-335&theme=tokyo-night)
 
-
----
-
 ## 🎯 Current Focus
 
 - 🔐 Strengthening cybersecurity and ethical hacking skills
